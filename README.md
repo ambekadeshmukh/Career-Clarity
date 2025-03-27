@@ -114,25 +114,6 @@ terraform apply -var-file=environments/dev.tfvars
 - [AI Components Documentation](docs/ai-components.md)
 - [API Documentation](docs/api-docs.md)
 
-## 🤝 Contributing
-
-Contributions are welcome! Please read our [contributing guidelines](CONTRIBUTING.md) to get started.
-
-## 📝 Phase 1 & 2 Roadmap
-
-### Phase 1: Foundation (3 weeks)
-- [x] Set up project structure and repository
-- [x] Configure AWS infrastructure with Terraform
-- [x] Implement basic React frontend with authentication
-- [x] Create Express API with core endpoints
-- [ ] Set up CI/CD pipeline
-
-### Phase 2: AI Implementation (4 weeks)
-- [ ] Develop job analyzer agent
-- [ ] Build pattern detection system
-- [ ] Create feedback collection pipeline
-- [ ] Implement authenticity scoring algorithm
-- [ ] Connect AI components to frontend
 
 ## 📄 License
 
