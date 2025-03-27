@@ -56,13 +56,8 @@ open http://localhost:3000
 
 CareerClarity follows a modern serverless architecture:
 
-```
-frontend (React) → API Gateway → Lambda functions → DynamoDB/S3
-                                   ↓
-                              AI Services
-```
+![CareerClarity](https://github.com/user-attachments/assets/14f3d80c-7a28-4167-87a1-9a8d557d8f70)
 
-See [architecture.md](docs/architecture.md) for detailed diagrams and explanations.
 
 ## 🧠 AI Components
 
